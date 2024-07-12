@@ -1,0 +1,15 @@
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.exe
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.deps.json
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.runtimeconfig.json
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.dll
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.pdb
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.AssemblyInfoInputs.cache
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.AssemblyInfo.cs
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.sourcelink.json
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.dll
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\refint\HeroVsMonster.dll
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.pdb
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.genruntimeconfig.cache
+C:\Users\Owner\source\Git\CsharpCodingChallenges\JFFProjects\HeroVsMonster\obj\Debug\net8.0\ref\HeroVsMonster.dll
