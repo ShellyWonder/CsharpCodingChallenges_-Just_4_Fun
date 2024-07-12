@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JFFProjects", "JFFProjects", "{28687D35-5330-4092-91FD-679D098B417F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroVsMonster", "JFFProjects\HeroVsMonster\HeroVsMonster.csproj", "{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFBFC3E4-8DC5-4830-BD8B-30CB2D5C2314} = {28687D35-5330-4092-91FD-679D098B417F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7510E6E-02DB-40CA-8779-CEBE820F8FA2}
+	EndGlobalSection
+EndGlobal
